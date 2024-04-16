@@ -1,0 +1,36 @@
+our updates
+setting up servers
+
+plan for this week
+basic front end
+framework set up
+
+what are expectations milestones
+	iterative depends on how you set up
+	maybe share sprints yes or maybe not right dir
+	depends on you - propose what you want 
+	we'll say valid or not, provide guidance
+
+what about at the end of the project
+good solution would be
+	front end: view status from gs, satellite status - available storage, power, position , order status
+	system: efficiently allocates /schedule distributed schedule
+	reallocate tasks not lose activities
+ 
+what are your priority on deliverables viewing status or backend algorithms 
+	look at project milestones and decide what to focus your resources on
+	we don't have a set outcome
+	might be better to work on seperate services rather than one ui
+	you can work on aspects and we'll give feedbak and iterate and have a back and forth. pretend we don't really know what we want and
+
+Expectations new weekly inputs coming in will we have a new expectation in january 
+	you don't have all the expectaions right now, we'll keeep asking or adding to see 	how system will react to the different cases and activities
+
+technical optimizing - number of requests we can except to recieve
+	100 per day per spacecraft - is idealized range
+	either batchdrop or spreadout
+
+load balancer 
+	see how system performs first before thinking about scalability. see how it performs on a smaller scale. figure out limitations first you might think one will be a bottle neck but find a different one.
+
+will send package with 50 sample orders. 
